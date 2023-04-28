@@ -1,6 +1,6 @@
 - 🔭 Atualmente estou estudando Desenvolvimento Web Full Stack na escola Trybe.
 - 🌱 Já concluí os módulos de Fundamentos e Front-End e estou on track no módulo de Back-End.
-- 👯 Como Desenvolvedor tenho experiência com projetos usando Git-Github, JavaScript ES6, HTML5, CSS3, React, Redux, Testing Library, Hooks, Docker, SQL e Metodologias Ágeis.
+- 👯 Como Desenvolvedor tenho experiência com projetos usando Git-Github, JavaScript ES6, HTML5, CSS3, React, Redux, Testing Library, Hooks, Docker, SQL, Node.js, Mocha, Arquitetura de Software MSC, ORM/Autenticação, TypeScript, MongoDB, NoSQL, Programação Orientada a Objetos e Metodologias Ágeis.
 - 🤔 Como Administrador tenho prática com atendimento ao público e mediação de conflitos, experiência com rotinas administrativas, análise/elaboração de relatórios gráficos e estatísticos, familiaridade com análise técnica financeira e vivência na área do empreendedorismo.
 - 💬 Estou disponível caso queira me perguntar algo.
 - 📫 Você pode me achar através do linkedin https://www.linkedin.com/in/tulioalcan/ e e-mail tulioalcan@gmail.com
